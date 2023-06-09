@@ -1,0 +1,1 @@
+# mixin SASS activity to understand SASS fundamentals

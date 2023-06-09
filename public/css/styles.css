@@ -1,0 +1,35 @@
+main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  color: darkorchid;
+}
+main #section-two {
+  color: green;
+}
+
+body {
+  background-color: burlywood;
+}
+body header {
+  color: crimson;
+  width: 100%;
+}
+body header h1 {
+  font-style: italic;
+  text-align: center;
+}
+body #mixin-example {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  color: orangered;
+  padding: 5%;
+  font-size: 1.5em;
+  font-style: italic;
+  font-weight: bolder;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
